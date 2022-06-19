@@ -1,0 +1,1 @@
+{"version":"0.1.0","name":"challenge-react-intro","dependencies":{"@testing-library/jest-dom":{"version":"5.16.4"},"@testing-library/react":{"version":"13.2.0"},"@testing-library/user-event":{"version":"13.5.0"},"react-dom":{"version":"18.1.0"},"react-scripts":{"version":"5.0.1"},"react":{"version":"18.1.0"},"web-vitals":{"version":"2.1.4"}}}
