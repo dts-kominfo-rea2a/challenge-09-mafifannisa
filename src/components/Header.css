@@ -1,0 +1,13 @@
+.header {
+    margin: 2em;
+}
+
+.header > h1 {
+    color: brown;
+}
+
+.header > p {
+    font-style: italic;
+    color: orangered;
+    font-weight: bolder;
+}

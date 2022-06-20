@@ -1,4 +1,8 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: aquamarine;
+  padding-bottom: 2em;
 }

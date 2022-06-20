@@ -1,0 +1,24 @@
+.contact-card {
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 8px;
+    margin: 0.5em;
+    padding: 0.8em;
+    padding-left: 2em;
+}
+
+.contact-img {
+    max-width: fit-content;
+}
+
+.contact-img > img {
+    width: 120px;
+    border-radius: 50%;
+}
+
+.contact-detail {
+    text-align: left;
+    margin-left: 2em;
+}
