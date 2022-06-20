@@ -4,9 +4,12 @@
     flex-direction: row;
     align-items: center;
     border-radius: 8px;
-    margin: 0.5em;
+    margin: auto;
     padding: 0.8em;
     padding-left: 2em;
+    min-width: 40%;
+    max-width: 800px;
+    margin-bottom: 2em;
 }
 
 .contact-img {
